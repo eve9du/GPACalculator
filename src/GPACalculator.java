@@ -1,6 +1,4 @@
 //Elizabeth Vasilia Evans
-//eve9du
-//Homework5
 
 
 import java.awt.Font;
